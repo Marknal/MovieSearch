@@ -1,0 +1,42 @@
+
+
+
+
+.cardone{
+     
+   margin-top:15%;
+   background-color:red;
+
+}
+
+.cardtwo{
+margin-top:5%;
+}
+
+.inputone{
+    margin-top: 10px;
+}
+
+.inputtwo{
+    margin-top: 10px;
+}
+
+.btn1{
+    margin-top: 10px;
+}
+
+
+#movies img{
+    width: 100%;
+}
+
+#movies{
+    margin-top: 5%;
+}
+
+
+.noimg{
+    
+    background-image: url("https://www.movietrailerbox.com/assets/images/imdbnoimage.jpg");
+    background-repeat: no-repeat;
+}
